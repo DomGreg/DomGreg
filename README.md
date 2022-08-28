@@ -1,3 +1,10 @@
+
+"Série mortalmente séria, código sério"
+
+
+![d9tj9a8-cc158e36-ebfe-4871-859b-949bd81fbfd0](https://user-images.githubusercontent.com/33266454/187058081-14bf8d24-a26a-4eea-9862-4982157754e0.gif)
+
+
 ## Olá! Eu sou o Gregório Silva 😎
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/greg_on_dev/)
