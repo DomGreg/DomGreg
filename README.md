@@ -35,7 +35,7 @@ Engenheiro de dados apaixonado por extrair insights e soluções a partir de dad
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![Apache](https://img.shields.io/badge/Apache-CA2136?logo=apache&logoColor=white&style=for-the-badge)
 
 
